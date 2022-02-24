@@ -1,3 +1,3 @@
 # horiseon-refactor  
 
-![](.assets/images/webpage.screenshot.png)
+![](./assets/images/webpage.screenshot.png)
